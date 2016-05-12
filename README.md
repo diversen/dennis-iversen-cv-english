@@ -18,7 +18,7 @@
 * 2012-2014. Book-holiday.com (later sweet points)
 * 2010-2012. Municipality of Aarhus. IT administrator at Children and Youth Horsensvej
 * 2007-2009. Cleaning at the Municipality of Aarhus
-* 2005-2006. Paver by Ingolf Rasmussen
+* 2005-2006. Paver for Ingolf Rasmussen
 * 2004-2005. Working at webbook.dk
 * 2003-2004. Independent freelance programmer for e.g. <Http://www.pil.dk>
 
